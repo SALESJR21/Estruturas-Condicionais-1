@@ -1,4 +1,4 @@
-# Cálculo de velocidade e pontuação na carteira 
+# Cálculo de velocidade e pontuação na carteira
 
 # Definindo as velocidades de referência para infrações
 
