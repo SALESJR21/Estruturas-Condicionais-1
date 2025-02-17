@@ -1,4 +1,4 @@
-# Este código determina o tipo de triângulo com base no comprimento dos três lados fornecidos pelo usuário.
+# Este código determina o tipo de triângulo com base no comprimento dos três lados fornecidos pelo usuário. 
 
 # Solicitando ao usuário os comprimentos dos três lados do triângulo
 
