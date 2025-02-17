@@ -1,4 +1,4 @@
-# Calculo de a médioa do aluno
+# Calculo de a média do aluno
 
 # Solicitando as notas ao usuário
 
